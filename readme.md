@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software developer at a product-based company, building cool things daily.<br>🌐 Open to web development collaborations—let’s make the internet a better place!<br>📱 Currently diving into React Native to add mobile magic to my skillset.<br><br>And yes, I still Google "for loop syntax" sometimes. 😅
+👨‍💻 Software developer at a product-based company, building cool things daily.<br>🌐 Open to web development collaborations—let’s make the internet a better place!<br>📱 Currently diving into React Native to add mobile magic to my skillset.
 
 
 ## 🌐 Socials:
