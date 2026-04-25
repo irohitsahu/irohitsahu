@@ -163,7 +163,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" />
 </p>
 
-<hr />
+<!-- <hr />
 
 <h1>🏆 GitHub Trophies:</h1>
 
@@ -171,14 +171,14 @@
   <img src="https://trophy.benkou.dev/?username=irohitsahu&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-<hr />
+<hr /> -->
 
 <h1>🔥 My Stats:</h1>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=irohitsahu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohitsahu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <!-- <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohitsahu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> -->
 </div>
 
 <hr />
@@ -191,10 +191,10 @@
 
 <hr />
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<!-- <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=default" alt="Random Dev Quote" />
-</div>
+</div> -->
 
 <!-- <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
