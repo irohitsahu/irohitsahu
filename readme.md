@@ -1,13 +1,36 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=irohitsahu"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFD93D&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Rohit+Sahu;Full+Stack+Developer+%F0%9F%9A%80;Building+cool+stuff+one+commit+at+a+time;Let's+collaborate+and+ship+%F0%9F%9A%A2" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/irohitsahu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/rohiitrajputt" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/rohiitrajputt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/arpcity" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://rohit-sahu-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=irohitsahu" alt="visitors" />
 </div>
 
 <h1>💫 About Me:</h1>
 
 <p>
-  👨‍💻 Software developer at a product-based company, building cool things daily.<br>
-  🌐 Open to web development collaborations—let's make the internet a better place!<br>
-  📱 Currently diving into React Native to add mobile magic to my skillset.
+  🧑‍💻 I write code that works... on the second try.<br>
+  🐛 Professional bug creator and occasional bug fixer at a product-based company.<br>
+  🌐 Open to web dev collaborations — let's make the internet a better place (or at least break it in style).<br>
+  📱 Currently diving into React Native to add mobile magic to my skillset.<br>
+  ☕ Powered by caffeine and Claude.<br>
+  🎯 Fun fact: The only center I understand is <code>margin: 0 auto</code>.
 </p>
 
 <h1>💻 Tech Stack:</h1>
@@ -142,10 +165,20 @@
 
 <hr />
 
+<h1>🏆 GitHub Trophies:</h1>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=irohitsahu&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+<hr />
+
 <h1>🔥 My Stats:</h1>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=irohitsahu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=irohitsahu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohitsahu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <hr />
@@ -155,6 +188,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irohitsahu/irohitsahu/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/irohitsahu/irohitsahu/output/pacman-contribution-graph.svg">
 </picture>
+
+<hr />
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
+  <img src="https://quotes-api-self.vercel.app/api?category=programming&theme=dark" alt="Random Dev Quote" />
+</div>
 
 <!-- <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
