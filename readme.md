@@ -168,7 +168,7 @@
 <h1>🏆 GitHub Trophies:</h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irohitsahu&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://trophy.benkou.dev/?username=irohitsahu&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <hr />
@@ -193,7 +193,7 @@
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
-  <img src="https://quotes-api-self.vercel.app/api?category=programming&theme=dark" alt="Random Dev Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=default" alt="Random Dev Quote" />
 </div>
 
 <!-- <div>
