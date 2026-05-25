@@ -25,8 +25,8 @@
 <h1>💫 About Me:</h1>
 
 <p>
-  🧑‍💻 I write code that works... on the second try.<br>
-  🐛 Professional bug creator and occasional bug fixer at a product-based company.<br>
+  🧑‍💻 Full Stack Developer who ships fast and iterates faster.<br>
+  🐛 Turning complex problems into clean solutions at a product-based company.<br>
   🌐 Open to web dev collaborations — let's make the internet a better place (or at least break it in style).<br>
   📱 Currently diving into React Native to add mobile magic to my skillset.<br>
   ☕ Powered by caffeine and Claude.<br>
